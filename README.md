@@ -1,0 +1,1 @@
+Bu proje, spor salonu üyelerinin giriş-çıkışlarını kamera ve QR kod okuyucu yardımıyla takip eden bir masaüstü uygulamasıdır. Aynı zamanda üyelerin boy ve kilo verilerini kayıt altına alarak Vücut Kitle İndeksi gibi fiziksel gelişimlerini hesaplar ve veritabanında raporlar.
